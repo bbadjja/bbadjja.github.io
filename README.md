@@ -1,5 +1,3 @@
-# bbadjja.github.io
-
 <!DOCTPYE html>
 <html>
 	<head>
