@@ -1,23 +1,14 @@
-<!DOCTPYE html>
-<html>
-	<head>
-	</head>
-	<body>
-		<h1>BBADJJA Team Project</h1>
-		<h2>Team 4 Cohort 3</h2>
-		<img src="extrafiles/images/logo.png">
-		<h3>Files/Links:</h3>
-		<h4>
-			<ul>
-				<li><a href="extrafiles/Req1.pdf">Requirements</a></li>
-				<li><a href="extrafiles/Arch1.pdf">Architecture</a></li>
-				<li><a href="extrafiles/Initial-snapshots.md">Initial class diagram snapshots</a></li>
-				<li><a href="extrafiles/Plan1.pdf">Method Selection and Planning</a></li>
-				<li><a href="extrafiles/Weeky-snapshots.md">Weekly Snapshots (4c)</a></li>
-				<li><a href="extrafiles/Risk1.pdf">Risk Assessment and Mitigation</a></li>
-				<li><a href="extrafiles/Impl1.pdf">Implementation</a></li>
-				<li><a href="extrafiles/Goose-patrol.jar">Game JAR file</a></li>
-			</ul>
-		</h4>
-	</body>
-</html>
+# BBADJJA Team Project
+## Team 4 Cohort 3
+
+![image](extrafiles/images/logo.png)
+
+### Files/Links:
+- [Requirements](extrafiles/Req1.pdf)
+- [Initial class diagram snapshots](extrafiles/Initial-snapshots.md)
+- [Method Selection and Planning](extrafiles/Plan1.pdf)
+- [Weekly Snapshots (4c)](extrafiles/Weeky-snapshots.md)
+- [Risk Assessment and Mitigation](extrafiles/Risk1.pdf)
+- [Implementation](extrafiles/Impl1.pdf)
+- [Game JAR file](extrafiles/Goose-patrol.jar)
+
