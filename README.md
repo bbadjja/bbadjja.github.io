@@ -11,24 +11,13 @@
 			<ul>
 				<li><a href="Req1.pdf">Requirements</a></li>
 				<li><a href="Arch1.pdf">Architecture</a></li>
+				<li><a href="Initial-snapshots">Initial class diagram snapshots</a></li>
 				<li><a href="Plan1.pdf">Method Selection and Planning</a></li>
+				<li><a href="Weeky-snapshots.md">Weekly Snapshots (4c)</a></li>
 				<li><a href="Risk1.pdf">Risk Assessment and Mitigation</a></li>
 				<li><a href="Impl1.pdf">Implementation</a></li>
-				<li><a href="Goose-patrol.jar">Game JAR file<a></li>
+				<li><a href="Goose-patrol.jar">Game JAR file</a></li>
 			</ul>
 		</h4>
-		<h3>Weekly Snapshots:</h3>
-		<h4>Week 1:</h4>
-		<img src="week_1.png">
-		<h4>Week 2:</h4>
-		<img src="week_2.png">
-		<h4>Week 3:</h4>
-		<img src="week_3.png">
-		<h4>Week 4:</h4>
-		<img src="week_4.png">
-		<h4>Week 5:</h4>
-		<img src="week_5.png">
-		<h4>Week 6:</h4>
-		<img src="week_6.png">
 	</body>
 </html>
