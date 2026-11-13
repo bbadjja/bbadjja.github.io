@@ -5,7 +5,7 @@
 	<body>
 		<h1>BBADJJA Team Project</h1>
 		<h2>Team 4 Cohort 3</h2>
-		<img src="logo.png">
+		<img src="extrafiles/logo.png">
 		<h3>Files/Links:</h3>
 		<h4>
 			<ul>
