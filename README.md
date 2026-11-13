@@ -14,7 +14,7 @@
 				<li><a href="Plan1.pdf">Method Selection and Planning</a></li>
 				<li><a href="Risk1.pdf">Risk Assessment and Mitigation</a></li>
 				<li><a href="Impl1.pdf">Implementation</a></li>
-				<li><a href="Game.jar">Game JAR file<a></li>
+				<li><a href="Goose-patrol.jar">Game JAR file<a></li>
 			</ul>
 		</h4>
 		<h3>Weekly Snapshots:</h3>
