@@ -11,7 +11,7 @@
 			<ul>
 				<li><a href="Req1.pdf">Requirements</a></li>
 				<li><a href="Arch1.pdf">Architecture</a></li>
-				<li><a href="Initial-snapshots">Initial class diagram snapshots</a></li>
+				<li><a href="Initial-snapshots.md">Initial class diagram snapshots</a></li>
 				<li><a href="Plan1.pdf">Method Selection and Planning</a></li>
 				<li><a href="Weeky-snapshots.md">Weekly Snapshots (4c)</a></li>
 				<li><a href="Risk1.pdf">Risk Assessment and Mitigation</a></li>
