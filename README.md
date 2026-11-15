@@ -22,6 +22,7 @@
 		<h4>
 			<ul>
 				<li><a href="extrafiles/Sequence-diagram.html">Final Sequence Diagram (3)</a></li>
+				<li><a href="extrafiles/Pipeline-diagram.html">Pipeline Diagram (3)</a></li>
 				<li><a href="extrafiles/Initial-snapshots.html">Initial Diagram snapshots (3)</a></li>
 				<li><a href="extrafiles/Weeky-snapshots.html">Weekly Planning Snapshots (4c)</a></li>
 			</ul>
