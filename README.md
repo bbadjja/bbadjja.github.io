@@ -21,10 +21,9 @@
 		<h3>Extra Content:</h3>
 		<h4>
 			<ul>
-				<li><a href="extrafiles/Sequence-diagram.html">Final Sequence Diagram</a></li>
-				<li><a href="extrafiles/Item-diagram.html">Final Item Class Diagram</a></li>
+				<li><a href="extrafiles/Sequence-diagram.html">Final Sequence Diagram (3)</a></li>
+				<li><a href="extrafiles/Initial-snapshots.html">Initial Diagram snapshots (3)</a></li>
 				<li><a href="extrafiles/Weeky-snapshots.html">Weekly Planning Snapshots (4c)</a></li>
-				<li><a href="extrafiles/Initial-snapshots.html">Initial Diagram snapshots</a></li>
 			</ul>
 		</h4>
 	</body>
