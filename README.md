@@ -17,6 +17,7 @@
 				<li><a href="extrafiles/Risk1.pdf">Risk Assessment and Mitigation</a></li>
 				<li><a href="extrafiles/Impl1.pdf">Implementation</a></li>
 				<li><a href="extrafiles/Goose-Patrol.jar">Game JAR file</a></li>
+				<li><a href="https://github.com/bbadjja/ENG1-Group-Game">Code Repository</a></li>
 			</ul>
 		</h4>
 	</body>
